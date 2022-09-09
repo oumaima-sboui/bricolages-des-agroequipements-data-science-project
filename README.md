@@ -13,5 +13,5 @@ Les présents documents sont à executer par l'ordre suivant:
 * étape 3 : [Extraction des métadonnées YouTube](https://github.com/oumaima-sboui/bricolages-des-agroequipements-data-science-project/blob/master/youtube_scrapping.py)
 * étape 4 : [Analyse des métadonnées YouTube](https://github.com/oumaima-sboui/bricolages-des-agroequipements-data-science-project/blob/master/YouTube_Analysis-Final.ipynb)
 * étape 5 : [Traduction des transcriptions](https://github.com/oumaima-sboui/bricolages-des-agroequipements-data-science-project/blob/master/Traduction_transcript_final-versCSV.ipynb)
-* étape 6 : [Pré-traitement des transcription]()
+* étape 6 : [Pré-traitement des transcription](https://github.com/oumaima-sboui/bricolages-des-agroequipements-data-science-project/blob/master/text_preprocessing_final_CSV.py)
 * étape 7 : [Topic modeling des transcription with top2vec]()[Topic modeling des transcription with Bertopic]()
