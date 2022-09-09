@@ -7,4 +7,8 @@ nous visons à collecter les avis directs des agriculteurs, leurs expériences e
 
 ## Principe de fonctionnement
 Les présent document sont à executer par ordre suivant:
-* hjujkf
+*  
+* étape 1 : [Recherche des videos](https://github.com/oumaima-sboui/bricolages-des-agroequipements-data-science-project/blob/master/Search_Video_finals.ipynb) -
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
