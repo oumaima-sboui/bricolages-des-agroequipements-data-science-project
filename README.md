@@ -6,9 +6,12 @@ l’adéquation des agroéquipements au pratiques agricoles, notamment dans le c
 nous visons à collecter les avis directs des agriculteurs, leurs expériences et pratiques  via les transcriptions des videos YouTube par lesquels ils s’expriment de manière intelligible. 
 
 ## Principe de fonctionnement
-Les présent document sont à executer par ordre suivant:
-*  
-* étape 1 : [Recherche des videos](https://github.com/oumaima-sboui/bricolages-des-agroequipements-data-science-project/blob/master/Search_Video_finals.ipynb) -
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+Les présents documents sont à executer par l'ordre suivant:
 
+* étape 1 : [Recherche des videos](https://github.com/oumaima-sboui/bricolages-des-agroequipements-data-science-project/blob/master/Search_Video_finals.ipynb) 
+* étape 2 : [Filtre sur les liens]()
+* étape 3 : [Extraction des métadonnées YouTube]()
+* étape 4 : [Analyse des métadonnées YouTube]()
+* étape 5 : [Traduction des transcriptions]()
+* étape 6 : [Pré-traitement des transcription]()
+* étape 7 : [Topic modeling des transcription with top2vec]()[Topic modeling des transcription with Bertopic]()
