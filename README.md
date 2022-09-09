@@ -10,7 +10,7 @@ Les présents documents sont à executer par l'ordre suivant:
 
 * étape 1 : [Recherche des videos](https://github.com/oumaima-sboui/bricolages-des-agroequipements-data-science-project/blob/master/Search_Video_finals.ipynb) 
 * étape 2 : [Filtre sur les liens](https://github.com/oumaima-sboui/bricolages-des-agroequipements-data-science-project/blob/master/filttre_sur_les_liens.ipynb)
-* étape 3 : [Extraction des métadonnées YouTube]()
+* étape 3 : [Extraction des métadonnées YouTube](https://github.com/oumaima-sboui/bricolages-des-agroequipements-data-science-project/blob/master/youtube_scrapping.py)
 * étape 4 : [Analyse des métadonnées YouTube]()
 * étape 5 : [Traduction des transcriptions]()
 * étape 6 : [Pré-traitement des transcription]()
